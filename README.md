@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashshah-2104
 - 👀 I’m interested in Devops
-- 🌱 I’m currently learning Devops
+- 🌱 I’m currently learning & Working Devops
 - 📫 How to reach me ...
 
 <!---
