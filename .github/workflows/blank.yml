@@ -14,9 +14,9 @@ on:
   workflow_dispatch:
     inputs:
       name: 
-      description: 'Preson to greet'
-      defult: 'World'
-      required: true
+        description: 'Preson to greet'
+        default: 'World'
+        required: true
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
